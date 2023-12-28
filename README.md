@@ -7,7 +7,7 @@
 
 ![profile-views-counter](https://komarev.com/ghpvc/?username=SaitamTheBest&style=for-the-badge)
 
-![I am GitHub Readme Generator's creator](https://github.com/SaitamTheBest/SaitamTheBest/blob/main/images/portfolio_banner.gif?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/SaitamTheBest/SaitamTheBest/blob/main/images/portfolio-banner.gif?raw=true)
 
 ## 🚀 About Me
 I'm a french IT student at the IUT du Limousin, at Limoges.
